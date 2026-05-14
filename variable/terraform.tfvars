@@ -1,0 +1,1 @@
+rg_name = "jogii_ji" #string
